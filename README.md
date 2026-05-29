@@ -40,14 +40,3 @@ Encryption: All communication between the doctor's device and the database is se
 
 Audit Trail: Every prescription issued is timestamped and logged for medical record accuracy.
 
-SCREENSHOTS:
-
-<img width="194" height="357" alt="image" src="https://github.com/user-attachments/assets/0387dffc-0557-46fa-9163-35ae4508872e" />
-
-<img width="180" height="372" alt="image" src="https://github.com/user-attachments/assets/d464fd6a-5667-4188-943d-e73c15d14985" />
-
-
-<img width="179" height="365" alt="image" src="https://github.com/user-attachments/assets/01b0d59d-3363-4501-96b2-6e05cd37b2c6" />
-
-<img width="191" height="386" alt="image" src="https://github.com/user-attachments/assets/7a6e4b6f-0db6-4010-9a50-ef65a944ad4d" />
-
